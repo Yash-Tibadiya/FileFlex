@@ -11,10 +11,14 @@
 [file-flex](https://file-flex-eight.vercel.app/)
 
 
+## Screenshots
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+| ![App Screenshot](https://github.com/Yash-Tibadiya/FileFlex/blob/main/public/images/Screenshot%202024-08-24%20192622.png) | ![App Screenshot](https://github.com/Yash-Tibadiya/FileFlex/blob/main/public/images/Screenshot%202024-08-24%20192635.png) |
+| :---: | :---: |
+| ![App Screenshot](https://github.com/Yash-Tibadiya/FileFlex/blob/main/public/images/Screenshot%202024-08-24%20192655.png) | ![App Screenshot](https://github.com/Yash-Tibadiya/FileFlex/blob/main/public/images/Screenshot%202024-08-24%20192721.png) |
+
 
 
 ## Run Locally
